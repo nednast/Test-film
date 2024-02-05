@@ -1,4 +1,52 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Protest+Riot&display=swap");
+
 * {
   margin: 0;
   box-sizing: border-box;
+}
+.resultImg {
+  width: 400px;
+  height: 550px;
+}
+
+h1 {
+  font-family: "Protest Riot", sans-serif;
+  font-weight: 400;
+  font-size: 70px;
+}
+
+p {
+  font-family: "Nunito", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+}
+
+.title-homepage {
+  margin-top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.text-homepage {
+  margin-top: 30px;
+  font-size: 30px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 200px;
+}
+
+.start-btn {
+  font-family: "Nunito", sans-serif;
+  text-decoration: none;
+  font-size: 25px;
+  border: 2px solid black;
+  border-radius: 20px;
+  margin-left: 450px;
+  padding: 100px 200px;
+}
+
+.btn-link {
+  text-decoration: none;
+  color: black;
+  font-size: 50px;
 }

@@ -11,7 +11,7 @@ let quiz = [
   },
   {
     question:
-      "Le film commence enfin. deux adolescentes assises devant toi parlent fort de l'acteur canon. que fais-tu?",
+      "Le film commence enfin. deux adolescentes assises devant toi parlent fort de l'acteur canon. Que fais-tu?",
     answer: {
       orgueilEtPréjugés: "Je me joins à elles! L'acteur est vraiment canon!",
       nobody:
@@ -60,15 +60,15 @@ let quiz = [
       intouchable: "Comme libre vu que tu n'es jamais sorti(e) ",
     },
   },
-  {
-    question: "Have you already written a letter to Santa Claus?",
-    answer: {
-      orgueilEtPréjugés: "Yes, sure!",
-      nobody: "Yes, I want to be a magician and print money",
-      annabelle: "All three hundred points in place",
-      intouchable: "No, I don't believe in him.",
-    },
-  },
+  // {
+  //   question: "Have you already written a letter to Santa Claus?",
+  //   answer: {
+  //     orgueilEtPréjugés: "Yes, sure!",
+  //     nobody: "Yes, I want to be a magician and print money",
+  //     annabelle: "All three hundred points in place",
+  //     intouchable: "No, I don't believe in him.",
+  //   },
+  // },
   {
     question: "Tu préfères les…",
     answer: {
